@@ -1,0 +1,153 @@
+{
+  "configVersion": 1,
+  "timestamp": 1676742767219,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/236.d80a20c8d00d65d5.js",
+        "/239.634306ee25afbbc9.js",
+        "/557.3398102d535f99b7.js",
+        "/845.ca85b9d2641eb41b.js",
+        "/common.064131bf3e3f2fb5.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.316c57861b9057a9.js",
+        "/manifest.webmanifest",
+        "/polyfills.7e16bdbffcf7884a.js",
+        "/runtime.5aa549cad62354b6.js",
+        "/styles.63bb55900064c04a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Common Pass.ae3f4d07ac44140b.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/Common Pass.png",
+        "/assets/img/background.png",
+        "/assets/img/chair.png",
+        "/assets/img/email.png",
+        "/assets/img/favicon.png",
+        "/assets/img/green.png",
+        "/assets/img/profile.jpg",
+        "/assets/img/red.png",
+        "/assets/img/reset.png",
+        "/assets/img/sdesk.png",
+        "/assets/img/sigma.png",
+        "/assets/img/sigmabot.png",
+        "/assets/img/sites/10.png",
+        "/assets/img/sites/11.png",
+        "/assets/img/sites/12.png",
+        "/assets/img/sites/14.png",
+        "/assets/img/sites/15.png",
+        "/assets/img/sites/17.png",
+        "/assets/img/sites/8-min.png",
+        "/assets/img/sites/8.png",
+        "/assets/img/sites/9.png",
+        "/assets/img/snow.png",
+        "/background.f964715f42677d02.png",
+        "/chair.b7cae05c78e09ddb.png",
+        "/email.c65e1d7b703bc72e.png",
+        "/reset.71418ed72f19caa3.png",
+        "/sdesk.d1a587d1a2b1a8d7.png",
+        "/sigma.7aefec95019e133d.png",
+        "/sigmabot.2fc2e635087216f9.png",
+        "/snow.4bb176e63ba9cf42.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/236.d80a20c8d00d65d5.js": "af71f05caa4c28cd84e4dcc74591f8c879616941",
+    "/239.634306ee25afbbc9.js": "68ffedb447b416c7d07a2497a15ccab508b6b9be",
+    "/557.3398102d535f99b7.js": "120377e59d241fa95c05f72d5965b8deff470649",
+    "/845.ca85b9d2641eb41b.js": "e4d36c25072cd1835dd8c2e38edce04c4085d3b4",
+    "/Common Pass.ae3f4d07ac44140b.png": "c007a8fdf7dbbca87d86800113eb8a65d38d21bf",
+    "/assets/icons/icon-128x128.png": "785c92b73edee54e48ffcb9d6b2cc03ce2222f5f",
+    "/assets/icons/icon-144x144.png": "744e7273717857121e4e0d1cd9a3aa3310c7872c",
+    "/assets/icons/icon-152x152.png": "651824b1721e338e2a3b2bc6cf1e81dc7ef525e5",
+    "/assets/icons/icon-192x192.png": "e7d8968bdd4d30c586808b9182641704e8ef8eb0",
+    "/assets/icons/icon-384x384.png": "786763a35d1e321e75b898e97e11ec544e381502",
+    "/assets/icons/icon-512x512.png": "18befa43091b99c1dfd1c9263e0a0a68df76efca",
+    "/assets/icons/icon-72x72.png": "120770aa7968b56f54648bd68b9f7d45aeff0b42",
+    "/assets/icons/icon-96x96.png": "bab743fbc5691d5691a52dece1a79237eb84114a",
+    "/assets/img/Common Pass.png": "c007a8fdf7dbbca87d86800113eb8a65d38d21bf",
+    "/assets/img/background.png": "2d737345cada1cc20da9ca88c30592c4bf2c81df",
+    "/assets/img/chair.png": "2f501db09e73ff41c63bf31068d21d372f875211",
+    "/assets/img/email.png": "73352c23c4ef36d897982b29dbee57bf0c1a945d",
+    "/assets/img/favicon.png": "d2076bf4240053590b5c591ba4a16e17f1cc38cd",
+    "/assets/img/green.png": "e78a2c88686c57a23e5284483a1edbda32e8a945",
+    "/assets/img/profile.jpg": "30d20161d4fe87ddb613420c37ca53d9d5d8f61a",
+    "/assets/img/red.png": "ea4f7dcfbe73b17bfa98df5b63ccb6644ebffe37",
+    "/assets/img/reset.png": "b653e9c46ee63670eea191d9e6e9186be2f61be4",
+    "/assets/img/sdesk.png": "e6578cb2a782a6c3ef875813316968bccd9d44df",
+    "/assets/img/sigma.png": "1a195e8056a5919bb268c60d0ac2ce2fdd76d7da",
+    "/assets/img/sigmabot.png": "fdedece5da355366f867c4f1b02c2bac86ab2414",
+    "/assets/img/sites/10.png": "201825ba4c0cba5b7ab3a08fe80a74a249894351",
+    "/assets/img/sites/11.png": "a44e8796554cd1e66d3dab6d121e3ea2fefe5f11",
+    "/assets/img/sites/12.png": "9ec7b2a4b59de2ef4bc2ed11cd428940444973be",
+    "/assets/img/sites/14.png": "cddf57f89a559f946ddac1c8034787574e82ddd5",
+    "/assets/img/sites/15.png": "c827e99ed510099fa0ed8c6226c3828f8f2f3415",
+    "/assets/img/sites/17.png": "559a03f10b2dda327204276171c20d9f71e6f5e8",
+    "/assets/img/sites/8-min.png": "0033c5690506ef7cd1fc96438245c41136f5502b",
+    "/assets/img/sites/8.png": "eb7a9532e87f695236bc57ebcc80ea2af5046dc7",
+    "/assets/img/sites/9.png": "56cc7cdf5f3abb0ae57f8c26b63dc3ae194b135e",
+    "/assets/img/snow.png": "1769b255959b7a1c1c43e4411298a5dd3dd60b0a",
+    "/background.f964715f42677d02.png": "2d737345cada1cc20da9ca88c30592c4bf2c81df",
+    "/chair.b7cae05c78e09ddb.png": "2f501db09e73ff41c63bf31068d21d372f875211",
+    "/common.064131bf3e3f2fb5.js": "42d1c5a189894f6aee52760fa062e5ca82b0c02a",
+    "/email.c65e1d7b703bc72e.png": "73352c23c4ef36d897982b29dbee57bf0c1a945d",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "251bbb345c88bf126d3187f8c66570134f03abbd",
+    "/main.316c57861b9057a9.js": "4a303a94f7901ca762954756da95b1f88d11e57c",
+    "/manifest.webmanifest": "1e8e41c573aa707b3c2feccdcc78a60d5d93ab29",
+    "/polyfills.7e16bdbffcf7884a.js": "b396e4d6ea333f4c7910199634539ba70bacdad2",
+    "/reset.71418ed72f19caa3.png": "b653e9c46ee63670eea191d9e6e9186be2f61be4",
+    "/runtime.5aa549cad62354b6.js": "d94ee5c99a57685b45ed0a717abde1a0f99989b0",
+    "/sdesk.d1a587d1a2b1a8d7.png": "e6578cb2a782a6c3ef875813316968bccd9d44df",
+    "/sigma.7aefec95019e133d.png": "1a195e8056a5919bb268c60d0ac2ce2fdd76d7da",
+    "/sigmabot.2fc2e635087216f9.png": "fdedece5da355366f867c4f1b02c2bac86ab2414",
+    "/snow.4bb176e63ba9cf42.png": "1769b255959b7a1c1c43e4411298a5dd3dd60b0a",
+    "/styles.63bb55900064c04a.css": "d97fa97894821891d5db54a52303b86e1b50f9a2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
